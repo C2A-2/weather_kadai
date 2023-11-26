@@ -1,0 +1,10 @@
+C:\Users\C22013-PC\source\repos\Weather_2\bin\Debug\Weather_2.exe.config
+C:\Users\C22013-PC\source\repos\Weather_2\bin\Debug\Weather_2.exe
+C:\Users\C22013-PC\source\repos\Weather_2\bin\Debug\Weather_2.pdb
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.csproj.AssemblyReference.cache
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.Form1.resources
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.Properties.Resources.resources
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.csproj.GenerateResource.cache
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.csproj.CoreCompileInputs.cache
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.exe
+C:\Users\C22013-PC\source\repos\Weather_2\obj\Debug\Weather_2.pdb
